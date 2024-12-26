@@ -1,1 +1,13 @@
-Gemfile.lock
+# Jekyll generated files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler files
+.bundle/
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
